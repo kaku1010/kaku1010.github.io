@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Linggg&#39;s Blog </title>
+    <link>https://kaku1010.github.io/tags/python/</link>
+    <description>Recent content in Python on Linggg&#39;s Blog </description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 28 Nov 2025 22:23:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku1010.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EXCEL VBA</title>
+      <link>https://kaku1010.github.io/blog/20251128_excel_vba/</link>
+      <pubDate>Fri, 28 Nov 2025 22:23:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/blog/20251128_excel_vba/</guid>
+      <description>&lt;p&gt;雖然到2025，AI的運用已經徹底普及，是連我啊罵都會用的程度。&lt;/p&gt;&#xA;&lt;p&gt;但是在就算到了這個程度，掌握Microsoft的Office運用，還是必不可少的。雖然聽說現代新一代的年輕人，都不用PPT做簡報了，都改用Canva。&lt;/p&gt;&#xA;&lt;p&gt;看來我還不是徹底的GEN-Z，畢竟在我的求學過程當中，我是有受到很完整的Office使用訓練的，可是還要上機考的呢(不知道在驕傲甚麼哈哈哈)&lt;/p&gt;&#xA;&lt;p&gt;最近開始想很認真將Excel VBA認真撿起來，透過結合AI，運用上會更加快速以及方便。&lt;/p&gt;&#xA;&lt;p&gt;那麼VBA是甚麼呢?&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Y3dLNYOfFDA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>如何快速建立個人網站</title>
+      <link>https://kaku1010.github.io/blog/hugo-%E5%BF%AB%E9%80%9F%E6%9E%B6%E7%AB%99/</link>
+      <pubDate>Fri, 28 Nov 2025 20:02:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/blog/hugo-%E5%BF%AB%E9%80%9F%E6%9E%B6%E7%AB%99/</guid>
+      <description>&lt;p&gt;該選擇哪種方式去進行個人內容經營了呢?這應該算是大家第一步會想很久的問題吧?至少我是啦哈哈哈。&lt;/p&gt;&#xA;&lt;p&gt;目前在市面上有滿多方式的，除了透過現有的部落格網站像是Medium，又或是更傳統的痞客幫。另外，有一部分人可能會選擇自己架設網站，無論是用Wordpress、Wix，方法五花八門&amp;hellip;。&lt;/p&gt;&#xA;&lt;p&gt;因緣際會之下，在瀏覽技術文章的時候，看到了不錯的網站排版，一查之後發現是透過hugo去建立的，號稱能快速地建立網站。看了幾篇架設文章後，加上買了一堂Hahow的課程，便將自己的個人網站架起來。&lt;/p&gt;&#xA;&lt;p&gt;架設這個個人網站，除了想在上面記錄一些技術的學習筆記以外，未來有想經營一些網拍，想把這個個人網站當成連結地圖，回過頭來說，為甚麼選擇使用Hugo呢?主要有以下三點原因:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;他在個人網站的架設上速度很快、以上手；&lt;/li&gt;&#xA;&lt;li&gt;使用Markdown語法進行文章發布，對於平常使用logseq來說上手很快；&lt;/li&gt;&#xA;&lt;li&gt;在Hugo的官網上有許多模板可以進行挑選。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;那在下一篇文章，我也會去詳細說明該如何透過Hugo，快速的將網站架設起來。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://kaku1010.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://kaku1010.github.io/blog/post-13/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Linggg&#39;s Blog </title>
+    <link>https://kaku1010.github.io/categories/</link>
+    <description>Recent content in Categories on Linggg&#39;s Blog </description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 28 Nov 2025 22:23:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku1010.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EXCEL VBA</title>
+      <link>https://kaku1010.github.io/categories/excel-vba/</link>
+      <pubDate>Fri, 28 Nov 2025 22:23:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/categories/excel-vba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://kaku1010.github.io/categories/hugo/</link>
+      <pubDate>Fri, 28 Nov 2025 20:02:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go Language</title>
+      <link>https://kaku1010.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://kaku1010.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

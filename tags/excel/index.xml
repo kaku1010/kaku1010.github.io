@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EXCEL on Linggg&#39;s Blog </title>
+    <link>https://kaku1010.github.io/tags/excel/</link>
+    <description>Recent content in EXCEL on Linggg&#39;s Blog </description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 28 Nov 2025 22:23:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku1010.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EXCEL VBA</title>
+      <link>https://kaku1010.github.io/blog/20251128_excel_vba/</link>
+      <pubDate>Fri, 28 Nov 2025 22:23:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/blog/20251128_excel_vba/</guid>
+      <description>&lt;p&gt;雖然到2025，AI的運用已經徹底普及，是連我啊罵都會用的程度。&lt;/p&gt;&#xA;&lt;p&gt;但是在就算到了這個程度，掌握Microsoft的Office運用，還是必不可少的。雖然聽說現代新一代的年輕人，都不用PPT做簡報了，都改用Canva。&lt;/p&gt;&#xA;&lt;p&gt;看來我還不是徹底的GEN-Z，畢竟在我的求學過程當中，我是有受到很完整的Office使用訓練的，可是還要上機考的呢(不知道在驕傲甚麼哈哈哈)&lt;/p&gt;&#xA;&lt;p&gt;最近開始想很認真將Excel VBA認真撿起來，透過結合AI，運用上會更加快速以及方便。&lt;/p&gt;&#xA;&lt;p&gt;那麼VBA是甚麼呢?&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Y3dLNYOfFDA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

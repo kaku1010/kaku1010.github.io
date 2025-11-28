@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Linggg&#39;s Blog </title>
+    <link>https://kaku1010.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Linggg&#39;s Blog </description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 28 Nov 2025 20:02:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku1010.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何快速建立個人網站</title>
+      <link>https://kaku1010.github.io/blog/hugo-%E5%BF%AB%E9%80%9F%E6%9E%B6%E7%AB%99/</link>
+      <pubDate>Fri, 28 Nov 2025 20:02:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/blog/hugo-%E5%BF%AB%E9%80%9F%E6%9E%B6%E7%AB%99/</guid>
+      <description>&lt;p&gt;該選擇哪種方式去進行個人內容經營了呢?這應該算是大家第一步會想很久的問題吧?至少我是啦哈哈哈。&lt;/p&gt;&#xA;&lt;p&gt;目前在市面上有滿多方式的，除了透過現有的部落格網站像是Medium，又或是更傳統的痞客幫。另外，有一部分人可能會選擇自己架設網站，無論是用Wordpress、Wix，方法五花八門&amp;hellip;。&lt;/p&gt;&#xA;&lt;p&gt;因緣際會之下，在瀏覽技術文章的時候，看到了不錯的網站排版，一查之後發現是透過hugo去建立的，號稱能快速地建立網站。看了幾篇架設文章後，加上買了一堂Hahow的課程，便將自己的個人網站架起來。&lt;/p&gt;&#xA;&lt;p&gt;架設這個個人網站，除了想在上面記錄一些技術的學習筆記以外，未來有想經營一些網拍，想把這個個人網站當成連結地圖，回過頭來說，為甚麼選擇使用Hugo呢?主要有以下三點原因:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;他在個人網站的架設上速度很快、以上手；&lt;/li&gt;&#xA;&lt;li&gt;使用Markdown語法進行文章發布，對於平常使用logseq來說上手很快；&lt;/li&gt;&#xA;&lt;li&gt;在Hugo的官網上有許多模板可以進行挑選。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;那在下一篇文章，我也會去詳細說明該如何透過Hugo，快速的將網站架設起來。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
