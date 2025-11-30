@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Linggg&#39;s Blog </description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 28 Nov 2025 22:23:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://kaku1010.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English</title>
+      <link>https://kaku1010.github.io/tags/english/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TOEIC</title>
+      <link>https://kaku1010.github.io/tags/toeic/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/tags/toeic/</guid>
+      <description></description>
+    </item>
     <item>
       <title>EXCEL</title>
       <link>https://kaku1010.github.io/tags/excel/</link>
@@ -55,20 +69,6 @@
       <link>https://kaku1010.github.io/tags/new/</link>
       <pubDate>Fri, 28 Nov 2025 20:02:00 +0800</pubDate>
       <guid>https://kaku1010.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Game</title>
-      <link>https://kaku1010.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kaku1010.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photos</title>
-      <link>https://kaku1010.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kaku1010.github.io/tags/photos/</guid>
       <description></description>
     </item>
   </channel>

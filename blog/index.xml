@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Linggg&#39;s Blog </description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 28 Nov 2025 22:23:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://kaku1010.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>多益金色證書準備</title>
+      <link>https://kaku1010.github.io/blog/toeic%E9%87%91%E8%89%B2%E8%AD%89%E6%9B%B8%E6%BA%96%E5%82%99%E8%A8%88%E7%95%AB/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0800</pubDate>
+      <guid>https://kaku1010.github.io/blog/toeic%E9%87%91%E8%89%B2%E8%AD%89%E6%9B%B8%E6%BA%96%E5%82%99%E8%A8%88%E7%95%AB/</guid>
+      <description>&lt;p&gt;本次的考試目標為考到多益金色證書，金色證書的分數範圍為860-990。&lt;/p&gt;&#xA;&lt;p&gt;這次打算要將以下資源重新吃透：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;國際學村 多益單字大全：&lt;/li&gt;&#xA;&lt;li&gt;國際學村 狠準六回&lt;/li&gt;&#xA;&lt;li&gt;Kirby 老師多益課程複習&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;平常增加英文語感的練習資源：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Preply的外師課程：目前是一個禮拜一堂，預計要將每周的堂數提高到兩堂&lt;/li&gt;&#xA;&lt;li&gt;Podcast：平常通勤的時候聽FT News、BBC 6-minutes English、No Stupid Question&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;12/01之前進度 :&lt;/p&gt;</description>
+    </item>
     <item>
       <title>EXCEL VBA</title>
       <link>https://kaku1010.github.io/blog/20251128_excel_vba/</link>
@@ -21,13 +28,6 @@
       <pubDate>Fri, 28 Nov 2025 20:02:00 +0800</pubDate>
       <guid>https://kaku1010.github.io/blog/hugo-%E5%BF%AB%E9%80%9F%E6%9E%B6%E7%AB%99/</guid>
       <description>&lt;p&gt;該選擇哪種方式去進行個人內容經營了呢?這應該算是大家第一步會想很久的問題吧?至少我是啦哈哈哈。&lt;/p&gt;&#xA;&lt;p&gt;目前在市面上有滿多方式的，除了透過現有的部落格網站像是Medium，又或是更傳統的痞客幫。另外，有一部分人可能會選擇自己架設網站，無論是用Wordpress、Wix，方法五花八門&amp;hellip;。&lt;/p&gt;&#xA;&lt;p&gt;因緣際會之下，在瀏覽技術文章的時候，看到了不錯的網站排版，一查之後發現是透過hugo去建立的，號稱能快速地建立網站。看了幾篇架設文章後，加上買了一堂Hahow的課程，便將自己的個人網站架起來。&lt;/p&gt;&#xA;&lt;p&gt;架設這個個人網站，除了想在上面記錄一些技術的學習筆記以外，未來有想經營一些網拍，想把這個個人網站當成連結地圖，回過頭來說，為甚麼選擇使用Hugo呢?主要有以下三點原因:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;他在個人網站的架設上速度很快、以上手；&lt;/li&gt;&#xA;&lt;li&gt;使用Markdown語法進行文章發布，對於平常使用logseq來說上手很快；&lt;/li&gt;&#xA;&lt;li&gt;在Hugo的官網上有許多模板可以進行挑選。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;那在下一篇文章，我也會去詳細說明該如何透過Hugo，快速的將網站架設起來。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://kaku1010.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kaku1010.github.io/blog/post-13/</guid>
-      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
