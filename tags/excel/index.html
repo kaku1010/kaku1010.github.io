@@ -5,12 +5,14 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="This is meta description">
+  <meta name="description"
+    content="This is meta description">
+  
   <meta name="author" content="linggg">
-    
+
   
   <meta name="theme-name" content="liva-hugo" />
-  
+
   <meta name="generator" content="Hugo 0.152.2">
 
   <!-- plugins -->
@@ -45,12 +47,23 @@
       a.src = g;
       m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'Your ID', 'auto');
+    ga('create', '', 'auto');
     ga('send', 'pageview');
   </script>
 
-</head>
-<body>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP08FJYCR6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-FP08FJYCR6');
+  </script>
+
+
+
+</head><body>
 <!-- preloader start -->
 <div class="preloader">
   
@@ -86,7 +99,7 @@
           </ul>
         </div>
 
-        <a class="navbar-brand mx-auto desktop-view" href="https://kaku1010.github.io/"><img class="img-fluid"
+        <a class="navbar-brand desktop-view" href="https://kaku1010.github.io/"><img class="img-fluid"
             src="https://kaku1010.github.io/images/LOGO.png" alt="Linggg&#39;s Blog "></a>
 
         <ul class="navbar-nav">
@@ -264,21 +277,18 @@
 <footer class="text-capitalize">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-12 text-center mb-5">
-        <a href="https://kaku1010.github.io/"><img src="https://kaku1010.github.io/images/LOGO.png" alt="Linggg&#39;s Blog "></a>
-      </div>
-               
+      
       <div class="col-lg-3 col-sm-6 mb-5">
         <h6 class="mb-4">Contact Me</h6>
         <ul class="list-unstyled">
           
-                     
+          
           <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>Taipei, Taiwan</li>
           
-                     
+          
           <li class="mb-3"><a class="text-dark" href="mailto:Rita88ta@gmail.com"><i
                 class="ti-email mr-3 text-primary"></i>Rita88ta@gmail.com</a>
-          
+            
           </li>
         </ul>
       </div>
@@ -298,14 +308,11 @@
       <div class="col-lg-3 col-sm-6 mb-5">
         <h6 class="mb-4">Categories</h6>
         <ul class="list-unstyled">
-          <li class="mb-3"><a class="text-dark"
-              href="/categories/excel-vba/">Excel vba</a>
+          <li class="mb-3"><a class="text-dark" href="/categories/excel-vba/">Excel vba</a>
           </li>
-          <li class="mb-3"><a class="text-dark"
-              href="/categories/hugo/">Hugo</a>
+          <li class="mb-3"><a class="text-dark" href="/categories/hugo/">Hugo</a>
           </li>
-          <li class="mb-3"><a class="text-dark"
-              href="/categories/toeic/">Toeic</a>
+          <li class="mb-3"><a class="text-dark" href="/categories/toeic/">Toeic</a>
           </li>
         </ul>
       </div>
@@ -357,42 +364,43 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button"
+    class="btn btn-sm btn-primary ml-2">I Accept</span>
 </div>
 <script>
-	(function ($) {
-		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
-			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires:  2 
-				});
-				cookieBox.classList.add('cookie-box-hide');
-			};
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieButton = document.getElementById('js-cookie-button');
+    if (!Cookies.get('cookie-box')) {
+      cookieBox.classList.remove('cookie-box-hide');
+      cookieButton.onclick = function () {
+        Cookies.set('cookie-box', true, {
+          expires:  2 
+    });
+    cookieBox.classList.add('cookie-box-hide');
+  };
 		}
-	})(jQuery);
+	}) (jQuery);
 </script>
 
 
 <style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
+  .cookie-box {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    z-index: 9999;
+    padding: 1rem 2rem;
+    background: rgb(71, 71, 71);
+    transition: all .75s cubic-bezier(.19, 1, .22, 1);
+    color: #fdfdfd;
+  }
 
-.cookie-box-hide {
-  display: none;
-}
+  .cookie-box-hide {
+    display: none;
+  }
 </style>
 </body>
 </html>
